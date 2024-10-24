@@ -15,6 +15,7 @@
   5. Multiply length by width
   6. Return area
 
+
 * Purpose: To get the type of flooring
 * Name: get_flooring
 * Parameters: None
@@ -23,7 +24,9 @@
   1. Ask user to input the type of flooring they want
   2. Convert input to lower
   3. While input doesn't equal hardwood, carpet, or tile
-     1. Output error message and ask the user to input the flooring they want\
+     1. Output error message and ask the user to input the flooring they want
+  4. Return type of flooring
+
 
 * Purpose: Calculate of flooring for room
 * Name: room_cost
@@ -39,6 +42,7 @@
   4. Print the cost of flooring for the room
   5. Return cost of flooring for room
 
+
 * Purpose: Add all the rooms together
 * Name: total_cost
 * Parameters: All the cost of flooring for all the rooms
@@ -46,3 +50,15 @@
 * Algorithm:
   1. Add all the cost flooring for all rooms
   2. Print the total cost for all rooms
+
+* Purpose: Runs the entire function
+* Name: main
+* Parameters: None
+* Return: None
+* Algorithm:
+  1. Define variables
+     1. room1 which equals 0
+     2. room2 which equals 0
+     3. room3 which equals 0
+     4. room4 which equals 0
+     5. room5 which equals 0
