@@ -10,6 +10,7 @@
 # Data Out: The cost of each room and the total cost for the house
 # Credits: Class
 
+# Gets the dimensions of the r
 def get_dimensions(room_display):
     width = int(input("Enter the width of Room " + str(room_display) + ": "))
     while width < 0:
@@ -50,9 +51,9 @@ def main():
     while add_room < 5:
         print("")
         print("Room " + str(keep_count))
-        display_cost = room_cost(get_dimensions(keep_count), get_flooring(keep_count))
-        print("Room " + str(keep_count) + f" will cost ${display_cost:.2f}")
-        final_cost += display_cost
+        current_room = room_cost(get_dimensions(keep_count), get_flooring(keep_count))
+        print("Room " + str(keep_count) + f" will cost ${current_room:.2f}")
+        final_cost += current_room
         add_room += 1
         keep_count+=1
     print("")

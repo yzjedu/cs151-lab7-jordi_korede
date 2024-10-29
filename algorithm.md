@@ -3,7 +3,7 @@
 
 * Purpose: To get the dimensions of the room
 * Name: get_dimensions
-* Parameters: None
+* Parameters: The room that the user is currently finding dimensions for
 * Return: Total area of the room
 * Algorithm:
   1. Ask the user the width of the room
@@ -18,7 +18,7 @@
 
 * Purpose: To get the type of flooring
 * Name: get_flooring
-* Parameters: None
+* Parameters: The room that the user is currently providing the flooring for
 * Return: Type of flooring
 * Algorithm:
   1. Ask user to input the type of flooring they want
@@ -43,22 +43,16 @@
   5. Return cost of flooring for room
 
 
-* Purpose: Add all the rooms together
-* Name: total_cost
-* Parameters: All the cost of flooring for all the rooms
-* Return: Total cost
-* Algorithm:
-  1. Add all the cost flooring for all rooms
-  2. Print the total cost for all rooms
-
 * Purpose: Runs the entire function
 * Name: main
 * Parameters: None
 * Return: None
 * Algorithm:
   1. Define variables
-     1. room1 which equals 0
-     2. room2 which equals 0
-     3. room3 which equals 0
-     4. room4 which equals 0
-     5. room5 which equals 0
+     1. add_room which equals 0
+     2. final_cost which equals 0
+     3. keep_count which equals 1
+  2. While add_room is less than 0
+     1. Output what room the user is on
+     2. Create variable current_room which calls the function, room_cost with the following parameters
+        1. get_dimensions using keep_count as its parameter
