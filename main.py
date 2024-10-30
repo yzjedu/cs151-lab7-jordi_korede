@@ -1,5 +1,5 @@
 # Programmers: Korede and Jordi
-# Course:  CS151, Dr.Yalew
+# Course:  CS151, Dr. Yalew
 # Due Date: 10/31/2024
 # Lab Assignment: 7
 # Problem Statement: Your friend just bought a new house, but all the rooms have carpet or laminate that is horribly dirty and gross.
@@ -10,7 +10,9 @@
 # Data Out: The cost of each room and the total cost for the house
 # Credits: Class
 
-# Gets the dimensions of the r
+# Gets the dimensions of the room
+# Checks in input is negative within the function
+# Parameter is there to aid in making the display look nicer
 def get_dimensions(room_display):
     width = int(input("Enter the width of Room " + str(room_display) + ": "))
     while width < 0:
@@ -21,6 +23,8 @@ def get_dimensions(room_display):
     area = width * length
     return area
 
+# Gets the flooring that the user will use for the room
+# Parameter is there to aid in making the display look nicer
 def get_flooring(room_display):
     flooring = str(input("What flooring will be used for Room " + str(room_display)  + "? (Please choose between hardwood, carpet, or tile flooring) "))
     flooring = flooring.lower()
@@ -28,6 +32,7 @@ def get_flooring(room_display):
         flooring = str(input("Invalid option. Please choose between hardwood, carpet, or tile flooring. "))
     return flooring
 
+# Calculates the cost of the room with the dimensions and flooring options in mind
 def room_cost(area, flooring):
     this_room = 0
     if flooring == "hardwood":
@@ -38,7 +43,9 @@ def room_cost(area, flooring):
         this_room = area * 4.99
     return this_room
 
-
+# Main function for everything to run
+# Loops 5 times for each room after the opening message is printed
+# The program ends when the loop ends and an exit message is outputted
 def main():
     add_room = 0
     final_cost = 0
