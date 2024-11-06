@@ -1,22 +1,21 @@
-ENCRYPTED:
-# Pcdjcargml Bmaskclr
+# Reflection Document
 
-* Bpgtc Dsjj Lykc: Hmpbg 
-* Nyprlcp Dsjj Lykc: Impcbc
-* Qrsbclr GB: 
+* Drive Full Name: Jordi 
+* Partner Full Name: Korede
+* Student ID: 
 
-Rfc kygl mzhcargtc md rfgq jyz uyq rm amlrglsgle npyargac upgrgle ambc rfyr glampnmpyrcq, ksjrgnjc glnsrq dpmk rfc sqcp, kyrf, ylb zcgle yzjc rm npglr rfc bcqgpcb msrnsr rfyr rfc sqcp uylrcb.
-Gl ybbgrgml, rfc nspnmqc md rfc npmepyk uyq rm msrnsr rfc amqr md cyaf pmmk ylb rfc rmryj amqr. 
-Yjqm, G amlrglscb npyargagle upgrgle yjempgrfkq ylb ncpdmpkgle.
-Dsprfcpkmpc, npyargagle rfc sqc md apcyrgle dslargmlq rm qgknjgdw msp ambc fyq zccl fcjndsjjw yq rfc npmepykq uc amlrglsc rm apcyrc dmp NY'q ylb Jyzq ugjj bcdglgrcjw ecr jmlecp rfpmsefmsr rfc pcqr md rfc qckcqrcp.
-Msp ambc uyq zyqcb ml rfc yjempgrfk rfyr uyq upgrrcl gl mpbcp rm qmjtc rfc npmzjck rfyr rfc sqcp fyb yqicb sq rm amknjcrc, ufgaf uyq rm apcyrc y npmepyk rfyr ugjj msrnsr fmu ksaf gr ugjj amqr rm pc-bm yjj rfc djmmpq.
-Gl ybbgrgml, rfc amlacnrq rfyr uc amlrglsc rm cvnjmpc uyq sqgle kyrf ugrfgl msp ambc rm fcjn rfc bcqgpcb sqcp amknjcrc qmkc ayjasjyrgmlq.
-Uc ucpc yzjc rm ecr rfc pcqsjrq bcqgpcb dpmk rfc sqcp. 
-Yjqm, uc pyl typgmsq rcqrq rm clqspc rfyr rfc npmepyk pyl qkmmrfjw. 
-Rfc kygl afyjjclec uc pyl glrm uyq hsqr kyigle qspc rfyr uc ucpc upgrgle msp yjempgrfk amppcarjw cqncagyjjw qglac uc ucpc kmpc dmasqcb ml y lcu yqncar ufgaf uyq apcyrgle dslargml.
-Qm, rfyr gd qmkcmlc rm pcapcyrc msp ambc, rfcw umsjb zc yzjc rm slbcpqrylb gr npmncpjw ylb rfyr gr kyicq qclqc rm pcapcyrc. 
-Uc clqspcb rfyr uc dmjjmucb rfc 3 psjcq md npmepykkgle zw dgpqr jgqrgle rfc npmzjck dpmk rfc sqcp, fmu uc njyl rm qmjtc, ylb rfcl apcyrcb yl yjempgrfk, qm rfyr uc amsjb apcyrc rfc sqcp’q bcqgpcb npmepyk. 
-Gl ybbgrgml, G dccj jgic G jcyplcb y bccncp ilmujcbec md fmu rm sqc amlbgrgmlq ylb rm kyic qspc rfcw ypc rpsc dmp rfc msrnsr G lccb rfck. 
-G clhmwcb umpigle ugrf Impcbc, uc fyb epcyr afckgqrpw ufgaf yjjmucb dmp sq rm umpi rmecrfcp pcyjjw ucjj ylb amknjcrc rfgq yqqgelkclr qkmmrfjw.
+The main objective of this lab was to continuing practice writing code that incorporates, multiple inputs from the user, math, and being able to print the desired output that the user wanted.
+In addition, the purpose of the program was to output the cost of each room and the total cost. 
+Also, I continued practicing writing algorithms and performing.
+Furthermore, practicing the use of creating functions to simplify our code has been helpfully as the programs we continue to create for PA's and Labs will definitely get longer throughout the rest of the semester.
+Our code was based on the algorithm that was written in order to solve the problem that the user had asked us to complete, which was to create a program that will output how much it will cost to re-do all the floors.
+In addition, the concepts that we continue to explore was using math within our code to help the desired user complete some calculations.
+We were able to get the results desired from the user. 
+Also, we ran various tests to ensure that the program ran smoothly. 
+The main challenge we ran into was just making sure that we were writing our algorithm correctly especially since we were more focused on a new aspect which was creating function.
+So, that if someone to recreate our code, they would be able to understand it properly and that it makes sense to recreate. 
+We ensured that we followed the 3 rules of programming by first listing the problem from the user, how we plan to solve, and then created an algorithm, so that we could create the user’s desired program. 
+In addition, I feel like I learned a deeper knowledge of how to use conditions and to make sure they are true for the output I need them. 
+I enjoyed working with Korede, we had great chemistry which allowed for us to work together really well and complete this assignment smoothly.
 
 
